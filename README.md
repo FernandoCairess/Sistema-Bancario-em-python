@@ -22,7 +22,7 @@ Após cada operação concluída, o menu é exibido novamente, permitindo que o 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario.git
+   git clone https://github.com/FernandoCairess/sistema-bancario.git
 2. Acesse a pasta do projeto:
 
    ```bash 
